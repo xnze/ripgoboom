@@ -1,0 +1,2 @@
+# ripgoboom
+.gg/riphub
